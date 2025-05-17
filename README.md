@@ -40,12 +40,13 @@ Este projeto é uma aplicação web desenvolvida em Java utilizando JavaServer F
 3. Execute o projeto no servidor.
 
 ## 📸 Imagens (adicione prints da interface aqui)
-![WhatsApp Image 2025-05-16 at 18 19 41](https://github.com/user-attachments/assets/94ad5d80-412d-48a7-91c2-40a048b91d49)
-![listagemVazia](https://github.com/user-attachments/assets/5864f421-1a61-47a3-9fc3-ef8f7ec12aa7)
-![WhatsApp Image 2025-05-16 at 18 44 03](https://github.com/user-attachments/assets/b0b7fef0-415b-4eb1-bc01-c8f320857641)
-![WhatsApp Image 2025-05-16 at 18 57 44](https://github.com/user-attachments/assets/33e8b7f5-eedc-4920-814d-81afe9a2d388)
 
-![listagemCheia](https://github.com/user-attachments/assets/2afc2580-185e-47a1-af99-9be4d0b7381f)
+![WhatsApp Image 2025-05-16 at 18 19 44](https://github.com/user-attachments/assets/35c140fc-06fe-494a-962f-a075f634514a)
+![WhatsApp Image 2025-05-16 at 19 03 40](https://github.com/user-attachments/assets/6601e13c-7940-4edf-937f-d622b886df19)
+![WhatsApp Image 2025-05-16 at 18 44 08](https://github.com/user-attachments/assets/dbc7b531-94f0-43ee-b9b2-53b86ec0c6b8)
+![WhatsApp Image 2025-05-16 at 18 57 49 (1)](https://github.com/user-attachments/assets/d29e0234-4cbe-413f-b888-085e36fdf02e)
+![WhatsApp Image 2025-05-16 at 19 00 42](https://github.com/user-attachments/assets/9f1127c9-9a8f-47a9-8987-1060bab0f5e5)
+
 
 ## 👤 Autor
 
